@@ -4,7 +4,7 @@ class Navbar extends Component {
     render() {
         return (
             <div>
-                <div className="navbar navbar-dark" style={{ height: "80px", padding: "0px 0px 0px 10px", backgroundColor: "#f2f3f7" }} >
+                <div className="navbar navbar-dark" style={{ height: "80px", padding: "0px 0px 0px 10px", backgroundColor: "#ffffff" }} >
                     < a href="/" >
                         <img src={require('../images/myLogo.png')} alt="logo" s />
                     </a>
