@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+
+
+
 .App {
   text-align: center;
 }
@@ -37,5 +42,52 @@
   }
 }
 
-/*  github corner icon animation */
+/*#######################################################################################*/
+/*#######################################################################################*/
+/*#######################################################################################*/
+/*#################     Navbar.js     #####################################################*/
 .github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
+
+
+
+/*#######################################################################################*/
+/*#######################################################################################*/
+/*#######################################################################################*/
+/*#################     Main.js     #####################################################*/
+#main {
+  background: linear-gradient(to right,  #ecf0ff 0%,#ecf0ff 50%,#ffffff 50%,#ffffff 100%);
+  height: 521px;
+}
+
+#hi {
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 800;
+    color: #3e64ff;
+    letter-spacing: 4px;
+    text-align: center!important;
+}
+
+#myName {
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 1.5;
+    color: #000;
+    box-sizing: border-box; 
+    display: block;
+    text-align: center!important;
+}
+
+.txt-rotate {
+  
+  color: #3e64ff;
+  text-decoration: underline;
+}
+
+#typeWrite {
+  font-size: 32px;
+  font-weight: 800;
+    line-height: 1.5;
+    color:#000;
+}
