@@ -68,7 +68,7 @@ class Main extends Component {
 
     render() {
         return (
-            <div id="main">
+            <div id="main" >
                 <div className="text-center p-5">
                     <p id="hi" className="mt-5">HEY! I AM</p>
                     <h1 id="myName">Suresh Mangs</h1>
