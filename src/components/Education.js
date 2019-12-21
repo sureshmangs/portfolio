@@ -11,11 +11,12 @@ class Education extends Component {
                             <ul className="timeline">
                                 <li className="timeline-item bg-white rounded ml-3 p-4 shadow">
                                     <div className="timeline-arrow"></div>
-                                    <h2 className="h5 mb-0">B.Tech - 7.03 CGPA</h2>
+                                    <h2 className="h5 mb-0">B.Tech (CSE) - 7.2 CGPA</h2>
                                     <span className="small text-gray">
                                         2017-2021
                                     </span>
-                                    <p className="text-small mt-2 font-weight-light">Indian Institute of Information Technology Kota</p>
+                                    <p className="text-small mt-2 mb-0 font-weight-light">Indian Institute of Information Technology Kota</p>
+                                    <a href={"http://www.iiitkota.ac.in/"} class="badge badge-primary ">Website</a>
                                 </li>
                                 <li className="timeline-item bg-white rounded ml-3 p-4 shadow">
                                     <div className="timeline-arrow"></div>
@@ -23,7 +24,8 @@ class Education extends Component {
                                     <span className="small text-gray">
                                         2015-2016
                                     </span>
-                                    <p className="text-small mt-2 font-weight-light">Kendriya Vidyalay Air Force Station, Saharanpur, UP</p>
+                                    <p className="text-small mt-2 mb-0 font-weight-light">Kendriya Vidyalay Air Force Station, Saharanpur, UP</p>
+                                    <a href={"http://www.afssarsawa.org/news.php"} class="badge badge-primary ">Website</a>
                                 </li>
                                 <li className="timeline-item bg-white rounded ml-3 p-4 shadow">
                                     <div className="timeline-arrow"></div>
@@ -31,7 +33,8 @@ class Education extends Component {
                                     <span className="small text-gray">
                                         2013-2014
                                     </span>
-                                    <p className="text-small mt-2 font-weight-light">Kendriya Vidyalay Air Force Station, Saharanpur, UP</p>
+                                    <p className="text-small mt-2 mb-0 font-weight-light">Kendriya Vidyalay Air Force Station, Saharanpur, UP</p>
+                                    <a href={"http://www.afssarsawa.org/news.php"} class="badge badge-primary ">Website</a>
                                 </li>
 
                             </ul>
