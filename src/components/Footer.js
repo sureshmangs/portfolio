@@ -13,11 +13,6 @@ class Footer extends Component {
                     </div>
                     <div className="col-md-2 mb-3">
                         <h6 className="font-weight-bold">
-                            <Link to="/Resume" className="footerLink">RESUME</Link>
-                        </h6>
-                    </div>
-                    <div className="col-md-2 mb-3">
-                        <h6 className="font-weight-bold">
                             <Link to="/Projects" className="footerLink">PROJECTS</Link>
                         </h6>
                     </div>
