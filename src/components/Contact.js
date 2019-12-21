@@ -11,14 +11,14 @@ class Contact extends Component {
 
         // Your web app's Firebase configuration
         var firebaseConfig = {
-            apiKey: "AIzaSyCyskFTZQQJxMd8FUFjqTD9Cad1qIigT6Y",
-            authDomain: "contactform-9cbed.firebaseapp.com",
-            databaseURL: "https://contactform-9cbed.firebaseio.com",
-            projectId: "contactform-9cbed",
-            storageBucket: "contactform-9cbed.appspot.com",
-            messagingSenderId: "27604450409",
-            appId: "1:27604450409:web:48814f3e2bb2c60d12f6f8",
-            measurementId: "G-RXMV4MSPGN"
+            apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            authDomain: "XXXXXXXXXXXXXXXXXX",
+            databaseURL: "XXXXXXXXXXXXXXXXXX",
+            projectId: "XXXXXXXXXXXXXXXXXX",
+            storageBucket: "XXXXXXXXXXXXXXXXXXXXXX",
+            messagingSenderId: "XXXXXXXXXXXXXXX",
+            appId: "XXXXXXXXXXXXXXXXXXXXXXX",
+            measurementId: "XXXXXXXXXXXX"
         };
 
 
