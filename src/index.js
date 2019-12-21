@@ -4,7 +4,6 @@ import { Route, BrowserRouter as Router, Switch } from 'react-router-dom'
 import './index.css';
 import App from './App';
 import About from './components/About';
-import Resume from './components/Resume';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
@@ -18,7 +17,6 @@ const routing = (
             <Switch>
                 <Route exact path="/" component={App} />
                 <Route path="/About" component={About} />
-                <Route path="/Resume" component={Resume} />
                 <Route path="/Projects" component={Projects} />
                 <Route path="/Skills" component={Skills} />
                 <Route path="/Contact" component={Contact} />
