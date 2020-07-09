@@ -26,7 +26,7 @@ class Skills extends Component {
                                     </div>
                                     <p className="languages">Python</p>
                                     <div className="mb-3 progress">
-                                        <div className="progress-bar progress-bar-striped  progress-bar-animated" style={{ width: "70%" }}></div>
+                                        <div className="progress-bar progress-bar-striped  progress-bar-animated" style={{ width: "40%" }}></div>
                                     </div>
                                 </li>
                                 <li className="timeline-item bg-white rounded ml-3 p-4 shadow">

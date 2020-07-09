@@ -19,6 +19,43 @@ class Projects extends Component {
                                 <div className="item col-lg-4 col-md-6">
                                     <div className="icon">
                                         <i className="icon-diploma">
+                                            <a href={"https://github.com/sureshmangs/Book-Monk"} ><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                        </i>
+                                    </div>
+                                    <h3 className="h5">Book Monk</h3>
+                                    <p>Building an online book store</p>
+                                </div>
+                                <div className="item col-lg-4 col-md-6">
+                                    <div className="icon">
+                                        <i className="icon-diploma">
+                                            <a href={"https://github.com/sureshmangs/The-Band"} ><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                        </i>
+                                    </div>
+                                    <h3 className="h5">The Band</h3>
+                                    <p>Fictional Band website for booking tickets for a concert</p>
+                                </div>
+                                <div className="item col-lg-4 col-md-6">
+                                    <div className="icon">
+                                        <i className="icon-diploma">
+                                            <a href={"https://github.com/sureshmangs/Google-Calendar"} ><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                        </i>
+                                    </div>
+                                    <h3 className="h5">Google Calendar</h3>
+                                    <p>Application to manage users google calendar</p>
+                                </div>
+
+                                <div className="item col-lg-4 col-md-6">
+                                    <div className="icon">
+                                        <i className="icon-diploma">
+                                            <a href={"https://github.com/sureshmangs/exercise-tracker"} ><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                        </i>
+                                    </div>
+                                    <h3 className="h5">Exercise Tracker</h3>
+                                    <p>Building a Exercise Tracker using MERN stack</p>
+                                </div>
+                                <div className="item col-lg-4 col-md-6">
+                                    <div className="icon">
+                                        <i className="icon-diploma">
                                             <a href={"https://github.com/sureshmangs/Predictionist"} ><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
                                         </i>
                                     </div>
@@ -51,6 +88,15 @@ class Projects extends Component {
                                     </div>
                                     <h3 className="h5">Movie Serial Info</h3>
                                     <p>Web app to display information about movies and serials</p>
+                                </div>
+                                <div className="item col-lg-4 col-md-6">
+                                    <div className="icon">
+                                        <i className="icon-diploma">
+                                            <a href={"https://github.com/sureshmangs/markdown-previewer"}><img src={require('../images/socialIcons/github.png')} alt="logo" style={{ width: "50px", height: "50px" }} /></a>
+                                        </i>
+                                    </div>
+                                    <h3 className="h5">Markdown Previewer</h3>
+                                    <p>React based Markdown Previewer</p>
                                 </div>
                             </div>
                         </div>

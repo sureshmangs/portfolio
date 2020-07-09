@@ -2,7 +2,7 @@ A website to showcase my web portfolio
 
 Technologies used: HTML, CSS, Bootstrap, JavaScript, React
 
-Website link: [sureshmangs](https://sureshmangs.netlify.com/)
+Website link: [sureshmangs](http://sureshmangs.surge.sh/)
 
 
 

@@ -11,7 +11,7 @@ class Education extends Component {
                             <ul className="timeline">
                                 <li className="timeline-item bg-white rounded ml-3 p-4 shadow">
                                     <div className="timeline-arrow"></div>
-                                    <h2 className="h5 mb-0">B.Tech (CSE) - 7.2 CGPA</h2>
+                                    <h2 className="h5 mb-0">B.Tech (CSE)</h2>
                                     <span className="small text-gray">
                                         2017-2021
                                     </span>
@@ -20,7 +20,7 @@ class Education extends Component {
                                 </li>
                                 <li className="timeline-item bg-white rounded ml-3 p-4 shadow">
                                     <div className="timeline-arrow"></div>
-                                    <h2 className="h5 mb-0">Class XII - 79.00%</h2>
+                                    <h2 className="h5 mb-0">Class XII</h2>
                                     <span className="small text-gray">
                                         2015-2016
                                     </span>
@@ -29,7 +29,7 @@ class Education extends Component {
                                 </li>
                                 <li className="timeline-item bg-white rounded ml-3 p-4 shadow">
                                     <div className="timeline-arrow"></div>
-                                    <h2 className="h5 mb-0">Class X - 9.6 CGPA</h2>
+                                    <h2 className="h5 mb-0">Class X</h2>
                                     <span className="small text-gray">
                                         2013-2014
                                     </span>
