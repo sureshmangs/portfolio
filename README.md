@@ -1,13 +1,18 @@
+# :rocket: Suresh Mangs
+
 A website to showcase my web portfolio
 
-Technologies used: HTML, CSS, Bootstrap, JavaScript, React
-
-<<<<<<< HEAD
-Website link: [sureshmangs](http://sureshmangs.surge.sh/)
-
-=======
 Website link: [sureshmangs](https://sureshmangs.herokuapp.com/)
->>>>>>> ff77b733e886e70e5349ec47a7bb4b57ab057608
+
+## :arrow_right: Technologies Used:
+
+:one: HTML
+
+:two: CSS
+
+:three: JavaScript
+
+:four: React
 
 
 ## Quickstart
