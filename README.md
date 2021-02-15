@@ -2,7 +2,7 @@
 
 A website to showcase my web portfolio
 
-Website link: [sureshmangs](https://sureshmangs.herokuapp.com/)
+Website link: [sureshmangs](https://sureshmangs.netlify.app/)
 
 ## :arrow_right: Technologies Used:
 
@@ -40,5 +40,17 @@ git add .
 git commit -m "Start with create-react-app"
 git push heroku master
 heroku open
+```
+
+## Deploy on Netlify
+ :pencil2: Replace $APP_NAME with the name for your app.
+ ```
+npx create-react-app $APP_NAME
+cd $APP_NAME
+npm run build
+npm i -g netlify-cli
+netlif deploy
+-> please provide a publish directory:  ./build
+-> deploying for production: netlify deploy --prod
 ```
 
